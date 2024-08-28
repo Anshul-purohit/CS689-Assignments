@@ -1,3 +1,0 @@
-Assignment[[:space:]]1/hi_100.txt filter=lfs diff=lfs merge=lfs -text
-Assignment[[:space:]]2/INDICBERT/working/my_indicBERT/model.safetensors filter=lfs diff=lfs merge=lfs -text
-Assignment[[:space:]]2/INDICNER/working/my_indicNER/model.safetensors filter=lfs diff=lfs merge=lfs -text
